@@ -16,3 +16,5 @@ Additionally, This application has different view in landscape and portrait mode
 It has a different view both in home_page.dart and in detail.dart
 
 I didn't use any "state management" system as the application is small in size and easy to manage.
+
+![Screenshot](https://github.com/iamoguzhanarslantas/flutter_pokedex/blob/version1.0.0/images/pokeball.png)
